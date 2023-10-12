@@ -1,0 +1,509 @@
+Enter the Global Depth:
+Enter the Bucket Capacity:
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 1
+
+---------------------------------
+	LOCAL DEPTH: 1
+	0
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	1
+	Values are: [ 45 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 1
+
+---------------------------------
+	LOCAL DEPTH: 1
+	0
+	Values are: [ 56 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	1
+	Values are: [ 45 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 1
+
+---------------------------------
+	LOCAL DEPTH: 1
+	0
+	Values are: [ 56 60 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	1
+	Values are: [ 45 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	001
+	Values are: [ 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	011
+	Values are: [ 45 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 60 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	101
+	Values are: [ 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	111
+	Values are: [ 45 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	001
+	Values are: [ 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	011
+	Values are: [ 45 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	101
+	Values are: [ 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	111
+	Values are: [ 45 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	001
+	Values are: [ 31 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	011
+	Values are: [ 31 45 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	101
+	Values are: [ 31 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 1
+	111
+	Values are: [ 31 45 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	001
+	Values are: [ 29 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	011
+	Values are: [ 31 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	101
+	Values are: [ 29 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	111
+	Values are: [ 31 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	001
+	Values are: [ 57 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	011
+	Values are: [ 31 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	101
+	Values are: [ 29 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	111
+	Values are: [ 31 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be inserted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	001
+	Values are: [ 57 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	011
+	Values are: [ 11 31 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	101
+	Values are: [ 29 45 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	111
+	Values are: [ 11 31 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be deleted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 56 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	001
+	Values are: [ 29 57 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	011
+	Values are: [ 11 31 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	101
+	Values are: [ 29 57 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	111
+	Values are: [ 11 31 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be deleted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 3
+
+---------------------------------
+	LOCAL DEPTH: 3
+	000
+	Values are: [ 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	001
+	Values are: [ 29 57 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	010
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	011
+	Values are: [ 11 31 ]
+---------------------------------
+	LOCAL DEPTH: 3
+	100
+	Values are: [ 12 60 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	101
+	Values are: [ 29 57 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	110
+	Values are: [ ]
+---------------------------------
+	LOCAL DEPTH: 2
+	111
+	Values are: [ 11 31 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be deleted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 2
+
+---------------------------------
+	LOCAL DEPTH: 1
+	00
+	Values are: [ 60 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	01
+	Values are: [ 29 57 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	10
+	Values are: [ 60 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	11
+	Values are: [ 11 31 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be deleted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 2
+
+---------------------------------
+	LOCAL DEPTH: 1
+	00
+	Values are: [ 60 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	01
+	Values are: [ 29 57 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	10
+	Values are: [ 60 72 ]
+---------------------------------
+	LOCAL DEPTH: 2
+	11
+	Values are: [ 11 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Enter the key to be deleted
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+*********************************************************
+DIRECTORY WITH GLOBAL DEPTH: 1
+
+---------------------------------
+	LOCAL DEPTH: 1
+	0
+	Values are: [ 60 72 ]
+---------------------------------
+	LOCAL DEPTH: 1
+	1
+	Values are: [ 29 57 ]
+*********************************************************
+>>> Enter 1 for Insertion
+>>> Enter 2 for Deletion
+>>> Enter 3 to Display the stored data
+>>> Enter 4 to Exit
+Bye!

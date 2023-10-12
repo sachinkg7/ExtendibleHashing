@@ -222,7 +222,7 @@ int Extendible_Hashing(int global_depth, int bucket_capacity)
     // int deletion[] = {45, 56, 12, 31, 11};
     // for (auto x : deletion)
     //     dir->remove(x, 0);
-    while (1)
+    while (true)
     {
         menu();
         cin >> val;
